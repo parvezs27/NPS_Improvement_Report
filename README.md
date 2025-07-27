@@ -1,5 +1,3 @@
-# NPS_Improvement_Report
-
 # Enhancing Customer Experience & Operational Efficiency at Westpac Group Contact Centres (RRB Division)
 
 ## Introduction
@@ -22,10 +20,9 @@ As a contact centre representative within Westpac's Regional Retail Banking (RRB
 Customers cannot open joint accounts or offset accounts online, a service readily offered by competitors such as UBank. Customers must contact the call centre, often resulting in multiple interactions due to both account holders needing simultaneous identification.
 
 **Impact (Cost Calculation):**  
-Volume: 2 calls per agent/day × 10 agents × 5 days/week × 4 weeks/month = **400 calls/month**  
-Estimated monthly cost: 400 calls × $6 average call cost = **$2,400/month** ($28,800 annually)
-
-> *Deloitte estimates average contact centre call cost in Australia between $5 to $7 (USD) per call (Deloitte, 2021).*
+- Volume: 2 calls per agent/day × 10 agents × 5 days/week × 4 weeks/month = 400 calls/month  
+- Deloitte estimate: $6 average cost per call  
+- Estimated monthly cost: 400 × $6 = **$2,400/month** ($28,800 annually)
 
 **Recommendation:**  
 Implement a fully digital account-opening process for joint and offset accounts, leveraging online ID verification (as successfully utilised by UBank). This digital migration would reduce call volume substantially.
@@ -35,93 +32,82 @@ Implement a fully digital account-opening process for joint and offset accounts,
 ### 2. Misinterpreted Communications (Periodic Customer ID Verification)
 
 **Problem:**  
-Customers frequently ignore emails sent by the bank to verify their ID and update their contact details, as they perceive these emails to be scam emails, leading to restricted accounts and unnecessary calls.
+Customers frequently ignore emails sent by the bank to verify their ID and update their contact details, as they perceive these emails to be scams. This leads to restricted accounts and unnecessary calls.
 
 **Impact (Cost Calculation):**  
-Volume: 2 calls per agent/day × 10 agents × 5 days/week × 4 weeks/month = **400 calls/month**  
-Estimated cost: 400 × $6 = **$2,400/month** ($28,800 annually)
+- Volume: 2 calls per agent/day × 10 agents × 5 days/week × 4 weeks/month = 400 calls/month  
+- Estimated monthly cost: 400 × $6 = **$2,400/month** ($28,800 annually)
 
 **Recommendation:**  
-Improve clarity in email communication by adding trusted branding and clear subject lines such as “Your Westpac account requires quick verification (2 mins)”. Additionally, introduce in-app push notifications and a banner message in digital banking interfaces.
+Introduce clear, secure, in-app notifications explicitly detailing why ID verification is required. This would reduce confusion and improve response rates. CBA, for instance, reported a 40% reduction in call centre wait times after strengthening in-app communications (CBA Annual Report, 2022).
 
 ---
 
-### 3. Credit Card Misunderstandings (Payment Cycles & Interest)
+### 3. App Interface Clarity (Pre-Maturity Instructions for Term Deposits)
 
 **Problem:**  
-Customers frequently call to understand how interest is applied on credit card balances, particularly after making repayments.
+Customers call for clarification on ambiguous notifications about pre-maturity instructions. Even after setting instructions, they are prompted again, resulting in repeated calls.
 
 **Impact (Cost Calculation):**  
-Volume: 1.5 calls/day × 10 agents × 5 days/week × 4 weeks/month = **300 calls/month**  
-Estimated cost: 300 × $6 = **$1,800/month** ($21,600 annually)
+- Volume: 1 call/agent/day × 10 agents × 5 days/week × 4 weeks/month = 200 calls/month  
+- Estimated monthly cost: 200 × $6 = **$1,200/month** ($14,400 annually)
 
 **Recommendation:**  
-Add simplified language and diagrams to monthly credit card statements (similar to CBA) showing how interest is applied and how to avoid it. Also include a quick “interest explainer” page in the mobile app.
+Redesign the app notification system to confirm successful submission of instructions. Add explanatory text or video guides to reduce confusion and repeated contacts.
 
 ---
 
-### 4. Outdated Address Causing Returned Mail
+### 4. Poor App Navigation & Feature Discoverability
 
 **Problem:**  
-Returned mail triggers internal investigations and customer calls. Many customers report they were unaware they needed to update both postal and residential addresses separately.
+Customers struggle to locate important features such as Interim Statements or Financial Year Interest summaries. These features are often mislabelled or buried in menus.
 
 **Impact (Cost Calculation):**  
-Volume: 1 call/day × 10 agents × 5 days/week × 4 weeks/month = **200 calls/month**  
-Estimated cost: 200 × $6 = **$1,200/month** ($14,400 annually)
+- Volume: 2 calls/agent/day × 10 agents × 5 days/week × 4 weeks/month = 400 calls/month  
+- Estimated monthly cost: 400 × $6 = **$2,400/month** ($28,800 annually)
 
 **Recommendation:**  
-Change the UX on the online banking address update screen to clearly show both address types, and auto-select “use same address” unless customer changes it.
+Incorporate an AI-powered search function (e.g., like UBank’s Mia chatbot) to help customers navigate directly to features. Add video tutorials within the app for guidance.
 
 ---
 
-### Total Estimated Annual Cost of Avoidable Calls:
-- Joint/Offset Accounts: $28,800
-- Misinterpreted Emails: $28,800
-- Credit Card Interest Confusion: $21,600
-- Address Errors: $14,400  
-**Total: $93,600**
+### 5. Miscommunication on Replacement Cards
 
-If this analysis were extended to include 10 RRB teams nationwide, the annual cost could exceed **$900,000**, making process and CX improvements not just beneficial — but essential.
+**Problem:**  
+Customers mistakenly believe reporting a damaged card enables immediate digital replacement, as suggested by the website. In reality, a digital card often requires the physical card to be activated first, leading to dissatisfaction and follow-up calls.
 
----
+**Impact (Cost Calculation):**  
+- Volume: 1 call/agent/day × 10 agents × 5 days/week × 4 weeks/month = 200 calls/month  
+- Estimated monthly cost: 200 × $6 = **$1,200/month** ($14,400 annually)
 
-## Competitive Benchmarking
-
-### UBank
-
-UBank leads in NPS rankings with digital-first customer service. Their app allows:
-- Full account openings (including joint accounts)
-- In-app notifications
-- ID verification without call centre involvement
-
-### Commonwealth Bank (CBA)
-
-CBA statements and app interfaces offer:
-- Interest calculators
-- Visual diagrams explaining payment cycles
-- In-context education articles linked to FAQs
+**Recommendation:**  
+Clarify the replacement card process on all communication channels, ensuring consistent messaging across website, app, and contact centre.
 
 ---
 
-## Proposed Strategic Improvements
+## Total Estimated Monthly Operational Savings
 
-1. **Digital self-service enhancements** for account management and ID verification
-2. **Visual in-app learning tools** for financial literacy and statement explanations
-3. **UX/UI upgrades** for clarity in address updates and email communications
-4. **Smart triage AI** to assist in contact categorisation and complaint routing
+| Issue                           | Avoidable Calls / Month | Cost Saving / Month (USD) | Time Saving / Month (8 min/call) |
+|--------------------------------|--------------------------|----------------------------|----------------------------------|
+| Joint & Offset Accounts        | 400                      | $2,400                     | 53.3 hours                       |
+| ID Verification Communications | 400                      | $2,400                     | 53.3 hours                       |
+| Term Deposit Notifications     | 200                      | $1,200                     | 26.7 hours                       |
+| App Feature Discoverability    | 400                      | $2,400                     | 53.3 hours                       |
+| Replacement Cards              | 200                      | $1,200                     | 26.7 hours                       |
+| **Total**                      | **1,600**                | **$9,600**                 | **213.3 hours**                  |
 
 ---
 
 ## Conclusion
 
-Customer complaints and unnecessary calls can be significantly reduced by investing in digital CX, clearer communication, and smarter processes. These enhancements are projected to save over **$900K** across the division, while directly improving customer sentiment and Net Promoter Scores (NPS).
-
-With insights informed by daily frontline interactions, this report offers practical, data-backed recommendations that align with Westpac Group’s 2029 NPS ambition.
+Resolving these issues aligns with Westpac Group’s strategy of improving customer satisfaction and reducing operational costs. By modernising digital processes, improving communication clarity, and introducing intelligent in-app support, Westpac can significantly reduce unnecessary call volumes, enhance customer experience, and accelerate progress toward achieving its 2029 NPS targets.
 
 ---
 
-## References
+## Bibliography
 
-- Deloitte (2021). *Customer Contact Center Cost Study*  
-- Roy Morgan (2023). *Banking NPS Benchmarks – Australia*  
-- Westpac (2025). *Customer Strategy & Vision 2029*
+- Deloitte. (2021). [Global Contact Centre Survey 2021: Cost per call metrics](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Technology-Media-Telecommunications/gx-contact-center-survey-2021.pdf)  
+- Roy Morgan. (2023). [Banking Net Promoter Score (NPS) Report](https://www.roymorgan.com/findings/nps-banking-australia)  
+- UBank. (2023). [UBank Customer Experience Report & Insights](https://www.ubank.com.au/reports/customer-experience-2023)  
+- Commonwealth Bank of Australia. (2022). [Annual Report 2022](https://www.commbank.com.au/content/dam/commbank-assets/about-us/2022-annual-report.pdf)  
+- Westpac. (2025). [1H25 Market Update: Investor Discussion Pack – March 2025](https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Market-Update-Mar-25.pdf)
