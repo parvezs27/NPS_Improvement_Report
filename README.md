@@ -2,9 +2,34 @@
 
 ## Introduction
 
-Westpac Group, comprising of prominent brands including Westpac, St George, Bank of Melbourne, and BankSA, remains committed to delivering exceptional customer service and achieving industry-leading Net Promoter Scores (NPS). Westpac Group aims to lead the Australian banking sector in customer satisfaction by targeting the highest NPS score among competitors by 2029 (Westpac, 2025). However, currently, the Group trails behind certain competitors such as UBank, who provide streamlined digital offerings.
+Westpac Group, comprising of brands, such as Westpac, St George, Bank of Melbourne, and BankSA, remains committed to delivering exceptional customer service and achieving industry-leading Net Promoter Scores (NPS). Westpac Group aims to lead the Australian banking sector in customer satisfaction by targeting the highest NPS score among competitors in both consumer and business banking by 2029 (Westpac, 2025). According to Westpac's 2025 Interim Financial Results 1H25, Westpac has ranked #2 for Consumer NPS and #3 for Business NPS. Additionally, the figure below obtined from Westpac Group 2025 Interim Results Presentation & Investor Discussion Pack, displays how Westpac has been tracking on NPS from March 2024 to March 2025, the figure portrays the following:
 
-The average NPS for Australian banks in recent years hovered around +25 to +35, with digital leaders such as ING Direct and UBank significantly outperforming traditional banks including Westpac (Roy Morgan, 2023). Thus, addressing operational inefficiencies and digital shortcomings in customer interactions is crucial to Westpac's NPS goal.
+**1. Westpac (red line)**
+- Started slightly negative (~0) in Mar-24.
+- Gradually improved to ~+5 by Mar-25.
+- This suggests a slow but steady uplift in customer advocacy.
+
+**2. St.George Brands (dark blue line)**
+- Consistently higher than both Westpac and peers throughout the year.
+- Peaked above +10 mid-2024, dipped late 2024, then rebounded back near +10 by Mar-25.
+- Indicates stronger customer sentiment for the regional brands compared to the Westpac brand.
+
+**3. Peers (purple line)**
+- Began higher than Westpac (~+7 in Mar-24).
+- Declined through late 2024, dipping into negative territory (-5) by Mar-25.
+- Suggests Westpac has gained relative ground versus competitors.
+
+**Overall Message**
+- Westpac brand improved modestly.
+- St.George Brands clearly outperform — they’re a bright spot.
+- Competitors’ scores fell, making Westpac/brands look better in relative terms.
+
+<img width="577" height="359" alt="image" src="https://github.com/user-attachments/assets/b87ca2fe-cac1-4ab8-a988-fc1642d6f639" />
+Figure 1
+Supporting our customers (Westpac Group, 2025, p. 86).
+Note. From Westpac Group 2025 Interim Results Presentation & Investor Discussion Pack (p. 86), Westpac Banking Corporation, 2025.
+
+Whilst these positive trends are great to see, 
 
 As a contact centre representative within Westpac's Regional Retail Banking (RRB) division, I have identified several frequent, avoidable call drivers impacting efficiency, customer experience, and ultimately, Westpac’s NPS. Resolving these issues would reduce unnecessary calls, resulting in substantial cost savings and better customer satisfaction.
 
